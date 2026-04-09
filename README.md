@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
+i am a engineering persuing student
+i am looking for help for streangthen my coding nd networking skils
+i am currently learning computer science and engineering course
+ask me about
 
-<!--
-**developeradhi/developeradhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn Reddit X email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ Python AWS Google Cloud Heroku Firebase Netlify Vercel Anaconda MongoDB MySQL Adobe Lightroom Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
