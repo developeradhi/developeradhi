@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a engineering persuing student<br>i am looking for help for streangthen my coding nd networking skils<br>i am currently learning computer science and engineering course <br>ask me about
+I am A Engineering Persuing Student<br>I am Looking for help for streangthen my coding nd networking skils<br>i am currently learning computer science and engineering course <br>ask me about
 
 
 ## 🌐 Socials:
