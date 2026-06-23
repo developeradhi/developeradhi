@@ -25,13 +25,6 @@
 
 <br/>
 
-### ✦ Continuous Evolution
-<div align="left">
-<img src="https://github-profile-card-ten.vercel.app/api/journey?steps=Basic%20Coding,MERN%20Stack,Mobile%20Apps,UI/UX%20Design,AI%20Integration" />
-</div>
-
-<br/>
-
 ### ✦ Technical Foundation
 <div align="left">
 <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,mongodb,react,nextjs,flutter,dart,kotlin,html,css,tailwind,figma,git,github,docker,linux,vercel,firebase,vscode&theme=light&perline=11" />
@@ -50,20 +43,11 @@
 
 <br/>
 
-### ✦ Open Source Impact
-<div align="left">
-  <img src="https://github-profile-card-ten.vercel.app/api/impact?username=developeradhi" alt="GitHub Impact Card" width="850" />
-  <br/>
-  <img src="https://github-profile-card-ten.vercel.app/api/contribution-bug?username=developeradhi" alt="Contribution Bug" width="850" />
-</div>
-
-<br/>
-
-### ✦ Analytics & Activity
+### ✦ Analytics & Impact
 <div align="left">
 
-<!-- Glassmorphic Monochromatic Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" width="420" />
+<!-- Glassmorphic Monochromatic Stats with Total Commits Enabled -->
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" width="420" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a3a3a3&background=00000000" width="420" />
 
 <br/>
