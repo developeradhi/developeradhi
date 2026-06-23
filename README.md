@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](https://linkedin.com/in/adarsh-b-a-am2203060907)
 [![Email](https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](mailto:contact@adarshdev.qzz.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](https://adarsh-ui.vercel.app)
+[![GitHub](https://img.shields.io/github/followers/developeradhi?style=for-the-badge&logo=github&color=000000&label=Followers&labelColor=FFFFFF&logoColor=000000)](https://github.com/developeradhi)
 
 </div>
 
@@ -24,40 +25,61 @@
 
 <br/>
 
+### ✦ Continuous Evolution
+<div align="left">
+<img src="https://github-profile-card-ten.vercel.app/api/journey?steps=Basic%20Coding,MERN%20Stack,Mobile%20Apps,UI/UX%20Design,AI%20Integration" />
+</div>
+
+<br/>
+
 ### ✦ Technical Foundation
+<div align="left">
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,mongodb,react,nextjs,flutter,dart,kotlin,html,css,tailwind,figma,git,github,docker,linux,vercel,firebase,vscode&theme=light&perline=11" />
+</div>
 
-**Engineering & Architecture**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,mongodb,react,nextjs&theme=light" height="40" />
 
-**Mobile & Interface**
+### ✦ 2024 Goals & Progress
+```text
+🌐 Launch a SaaS Product         [████████░░░░░░] 55%
+📱 Publish Flutter App to Store  [██████████░░░░] 70%
+🤖 Build an AI-integrated Tool   [████░░░░░░░░░░] 30%
+⭐ Reach 100 GitHub Stars         [██████░░░░░░░░] 40%
+📝 Master Next.js & Docker       [████████████░░] 80%
+```
+
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,html,css,tailwind,figma&theme=light" height="40" />
 
-**Infrastructure & Tooling**
+### ✦ Open Source Impact
+<div align="left">
+  <img src="https://github-profile-card-ten.vercel.app/api/impact?username=developeradhi" alt="GitHub Impact Card" width="850" />
+  <br/>
+  <img src="https://github-profile-card-ten.vercel.app/api/contribution-bug?username=developeradhi" alt="Contribution Bug" width="850" />
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,firebase,vscode&theme=light" height="40" />
 
-<br/><br/>
-
-### ✦ Analytics & Impact
-
+### ✦ Analytics & Activity
 <div align="left">
 
 <!-- Glassmorphic Monochromatic Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a3a3a3&background=00000000" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" width="420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a3a3a3&background=00000000" width="420" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&custom_title=Contribution%20Graph" width="850" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=tokyonight&hide_border=true&title_color=ffffff&bg_color=00000000&text_color=a3a3a3" width="420" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developeradhi&theme=tokyonight&utcOffset=5.5&bg_color=00000000&title_color=ffffff&text_color=a3a3a3" width="420" />
 
 </div>
 
 <br/>
 
 ### ✦ Selected Work
-
 <div align="left">
 <a href="https://github.com/developeradhi/developeradhi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" />
@@ -67,7 +89,6 @@
 <br/>
 
 ### ✦ Ecosystem
-
 <div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg">
