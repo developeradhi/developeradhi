@@ -1,93 +1,81 @@
-<div align="left">
+<div align="center">
 
-<!-- Sleek Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Adarsh%20B%20A&fontSize=80&fontColor=ffffff&fontAlign=left&fontAlignY=50&desc=Emerging%20Software%20Engineer%20%7C%20Creator&descSize=22&descColor=a3a3a3&descAlign=left&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Adarsh%20B%20A&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descColor=c084fc&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG Monochromatic -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=ffffff&center=false&vCenter=true&width=800&lines=Building+elegant+digital+experiences.;Architecting+scalable+systems.;Designing+with+purpose+and+precision.;Crafting+clean,+maintainable+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems.;Designing+responsive+user+interfaces.;Developing+cross-platform+mobile+applications.;Writing+clean,+maintainable+code." alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](https://linkedin.com/in/adarsh-b-a-am2203060907)
-[![Email](https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](mailto:contact@adarshdev.qzz.io)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](https://adarsh-ui.vercel.app)
-[![GitHub](https://img.shields.io/github/followers/developeradhi?style=for-the-badge&logo=github&color=000000&label=Followers&labelColor=FFFFFF&logoColor=000000)](https://github.com/developeradhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adarsh--ui.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-ui.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-b-a-am2203060907)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adarshdev.qzz.io)
 
 </div>
 
 <br/>
 
-### ✦ Overview
-> **Full Stack Developer & UI/UX Designer** <br/>
-> Based in India 🇮🇳 • Local Time: **UTC +05:30** <br/>
-> 
-> I specialize in building minimal, highly performant, and scalable applications. My philosophy is simple: write clean code, design with intention, and build software that feels effortless to use. From robust MERN backend architectures to flawless Flutter mobile apps, I engineer complete solutions.
+## 👨‍💻 About Me
+
+Hello! I'm an **Emerging Software Engineer** based in India (UTC +05:30) with a strong focus on Full Stack Web and Mobile Development. 
+
+I specialize in building end-to-end applications that are robust, secure, and user-friendly. My core philosophy is writing clean architecture and developing digital solutions that solve real-world problems effectively.
+
+- 🎓 Constantly learning and adapting to new technologies.
+- 💻 Experienced in building scalable systems using the **MERN** stack.
+- 📱 Proficient in cross-platform mobile development with **Flutter**.
+- 🤝 Always open to interesting collaborations and professional opportunities.
 
 <br/>
 
-### ✦ Technical Foundation
-<div align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,mongodb,react,nextjs,flutter,dart,kotlin,html,css,tailwind,figma,git,github,docker,linux,vercel,firebase,vscode&theme=light&perline=11" />
-</div>
+## 🛠️ Technical Skills
+
+**Frontend & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,flutter,dart,kotlin&theme=dark" />
+
+<br/><br/>
+
+**Backend, Database & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,docker,linux,firebase,vercel&theme=dark" />
 
 <br/>
 
-### ✦ 2024 Goals & Progress
-```text
-🌐 Launch a SaaS Product         [████████░░░░░░] 55%
-📱 Publish Flutter App to Store  [██████████░░░░] 70%
-🤖 Build an AI-integrated Tool   [████░░░░░░░░░░] 30%
-⭐ Reach 100 GitHub Stars         [██████░░░░░░░░] 40%
-📝 Master Next.js & Docker       [████████████░░] 80%
-```
+## 📊 GitHub Analytics
 
-<br/>
+<div align="center">
 
-### ✦ Analytics & Impact
-<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=tokyonight&hide_border=true" width="49%" />
 
-<!-- Primary Stats & Total Commits -->
-<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a3a3a3&background=00000000" width="420" />
+<br/><br/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developeradhi&theme=tokyonight" width="100%" />
 
-<!-- Detailed Contribution Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developeradhi&theme=tokyonight&bg_color=00000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true" width="850" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&custom_title=Contribution%20Graph" width="850" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=tokyonight&hide_border=true&title_color=ffffff&bg_color=00000000&text_color=a3a3a3" width="420" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developeradhi&theme=tokyonight&utcOffset=5.5&bg_color=00000000&title_color=ffffff&text_color=a3a3a3" width="420" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <br/>
 
-### ✦ Selected Work
-<div align="left">
+## 🏆 Featured Project
+
+<div align="center">
 <a href="https://github.com/developeradhi/developeradhi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
 <br/>
 
-### ✦ Ecosystem
-<div align="left">
+## 🐍 Contribution Graph
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg" width="850">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-</div>
-
-<br/>
-
-<div align="left">
-  <p><sub><em>Less is more.</em></sub></p>
 </div>
