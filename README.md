@@ -1,156 +1,90 @@
 <div align="center">
 
-<!-- Animated Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Adarsh%20B%20A&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20Dev&descSize=18&descColor=c084fc&animation=fadeIn" width="100%"/>
+<!-- Custom Top Banner -->
+<img width="100%" alt="Top Banner" src="https://github.com/user-attachments/assets/f3bf19fc-4848-425d-9bcf-647bf5cf0d03" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Adarsh+B+A+👋;Full+Stack+%7C+MERN+Stack+Developer;Flutter+%26+Android+App+Builder;UI%2FUX+Designer+%7C+Python+%26+AI+Explorer;Turning+Ideas+Into+Digital+Realities+🚀;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Adarsh+B+A+👋;Software+Developer;Full+Stack+%7C+MERN+Stack+Developer;Flutter+%26+Android+Developer;Building+Scalable+%26+Secure+Digital+Solutions;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <!-- Badges Row -->
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-A855F7?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-A855F7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=developeradhi&style=for-the-badge&color=A855F7&label=Profile+Views&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/developeradhi?style=for-the-badge&logo=github&color=A855F7&label=Followers&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/followers/developeradhi?style=for-the-badge&logo=github&color=A855F7&label=Followers&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=developeradhi&style=for-the-badge&color=A855F7&label=Profile+Views&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Focused%20On-Full%20Stack%20Development-A855F7?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 About Me
 
-Hi, I'm **Adarsh B A** — a passionate **Full Stack Developer, UI/UX Designer, and Mobile App Developer**.
+Hi, I'm **Adarsh B A** — a passionate **Software Developer** with hands-on experience in **Full Stack Development, MERN Stack, Flutter, and Android Development**.
 
-I enjoy building **modern, scalable, secure, and user-focused digital experiences** that solve real-world problems. My development approach focuses on **clean architecture, performance optimization, and beautiful user interfaces**.
+I enjoy building **modern, scalable, secure, and user-focused digital experiences** that solve real-world problems. My development approach focuses on **clean architecture, performance optimization, scalability, and meaningful user experiences**.
 
 ### 💡 What I Do
 
-- 💻 Build **Full Stack Web Applications** using the MERN stack
+- 💻 Build **Full Stack Web Applications**
+- 🌐 Develop scalable **MERN Stack Solutions**
 - 📱 Create modern **Flutter & Android Applications**
-- 🎨 Design intuitive **UI/UX experiences** using Figma
-- 🤖 Explore **AI-powered systems & intelligent solutions**
+- 🎨 Design intuitive **UI/UX experiences**
+- 🤖 Explore **AI-powered systems & intelligent experiences**
 - 🚀 Focus on **performance, scalability & maintainable code**
 
+<br/>
 
+<!-- Custom Journey Map -->
+<img src="https://github-profile-card-ten.vercel.app/api/journey?steps=Basic%20Coding,MERN%20Stack,Mobile%20Apps,UI/UX%20Design,AI%20Integration" />
 
----
+<br/>
 
-## 🎯 2024 Goals & Progress
+# ⚒️ Tech Stack
 
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,flutter,dart,androidstudio,kotlin,figma,tailwind,git,github,vscode,vercel,netlify,linux,docker,firebase&perline=12" />
+
+</div>
+
+<br/>
+
+# 🎯 2024 Goals & Progress
+
+```text
 🌐 Launch a SaaS Product         [████████░░░░░░] 55%
 📱 Publish Flutter App to Store  [██████████░░░░] 70%
 🤖 Build an AI-integrated Tool   [████░░░░░░░░░░] 30%
 ⭐ Reach 100 GitHub Stars         [██████░░░░░░░░] 40%
-📝 Write 10 Technical Articles   [████████████░░] 80%
-🎓 Complete Cloud Certification  [██████░░░░░░░░] 45%
+📝 Master Next.js & Docker       [████████████░░] 80%
 ```
 
----
+<br/>
 
-## ⚡ Tech Arsenal
+# 📊 GitHub Analytics
 
 <div align="center">
-
-### 🖥️ Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma,tailwind&perline=8" />
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,firebase,mysql,redis&perline=7" />
-
-<br/><br/>
-
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&perline=4" />
-
-<br/><br/>
-
-### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux,docker&perline=7" />
-
+<p align="center">
+  <img src="https://github-profile-card-ten.vercel.app/api/impact?username=developeradhi" alt="GitHub Impact Card" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-card-ten.vercel.app/api/contribution-bug?username=developeradhi" alt="Contribution Bug" width="100%" />
+</p>
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+# 📈 Additional Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7&background=0D1117&sideLabels=A855F7" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=A855F7&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7&background=0D1117&sideLabels=A855F7" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&langs_count=8" width="38%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developeradhi&theme=tokyonight&utcOffset=5.5" width="38%" />
-
-<br/><br/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&theme=tokyo-night&hide_border=true&line=A855F7&point=ff6b6b&area=true&area_color=A855F7" width="100%"/>
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-|  🏅 Achievement | 📌 Detail |
-|---|---|
-| 🚀 **First Deployment** | Successfully deployed first full-stack web app |
-| 📱 **Mobile App Built** | Developed a Flutter cross-platform application |
-| 🎨 **UI Portfolio Live** | Launched [adarsh-ui.vercel.app](https://adarsh-ui.vercel.app) |
-| 🔥 **Open Source Contributor** | Contributing to public GitHub repositories |
-| 🤝 **Collaborative Dev** | Worked on team projects and client solutions |
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/developeradhi/developeradhi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7" />
-</a>
-
-<br/><br/>
-
-> 🌐 Explore all my work at **[adarsh-ui.vercel.app](https://adarsh-ui.vercel.app)**
-
-</div>
-
-
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg">
@@ -160,81 +94,48 @@ I enjoy building **modern, scalable, secure, and user-focused digital experience
 
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/">
-  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20B%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="mailto:contact@adarshdev.qzz.io">
-  <img src="https://img.shields.io/badge/Email-contact@adarshdev.qzz.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="https://adarsh-ui.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-adarsh--ui.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<br/><br/>
+<a href="mailto:contact@adarshdev.qzz.io">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
 
 <a href="https://github.com/developeradhi">
-  <img src="https://img.shields.io/badge/GitHub-developeradhi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/itzz__adhi">
-  <img src="https://img.shields.io/badge/Twitter-@itzz__adhi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/itzz__adhi">
-  <img src="https://img.shields.io/badge/Instagram-@itzz__adhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<br/><br/>
-
-<!-- Social icons row -->
-<a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@adarshdev.qzz.io">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/developeradhi">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://twitter.com/itzz__adhi">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://instagram.com/itzz__adhi">
-  <img src="https://img.shields.io/badge/-%40itzz__adhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
 </div>
-
----
 
 <div align="center">
 
 ### 💭 Developer Philosophy
 
-> *"Great software is not just about working code — it's about clean architecture,*
-> *thoughtful design, and experiences that users genuinely love."*
-> 
-> *— Adarsh B A*
+> **"I believe technology creates real impact when it solves problems, scales efficiently, and delivers meaningful experiences."**
 
-<br/>
+</div>
 
-**⭐ If you like my work, consider starring my repos — it motivates me to keep building! ⭐**
+<!-- =========================
+        CUSTOM FOOTER
+========================= -->
 
-<br/>
+<div align="center">
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&text=Thanks+for+visiting!+👋&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img width="100%" alt="Footer Banner" src="https://github.com/user-attachments/assets/842baff4-1cf4-4fa9-a245-e06fcfef6938" />
 
 </div>
