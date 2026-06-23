@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Adarsh%20B%20A&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20Dev&descSize=18&descColor=c084fc&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Adarsh+B+A+👋;Full+Stack+%7C+MERN+Stack+Developer;Flutter+%26+Android+App+Builder;UI%2FUX+Designer+%7C+Python+%26+AI+Explorer;Turning+Ideas+Into+Digital+Realities+🚀;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Adarsh+B+A+👋;Full+Stack+%7C+MERN+Stack+Developer;Flutter+%26+Android+App+Builder;UI%2FUX+Designer+%7C+Python+%26+AI+Explorer;Turning+Ideas+Into+Digital+Realities+🚀;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -35,32 +35,7 @@ I enjoy building **modern, scalable, secure, and user-focused digital experience
 - 🤖 Explore **AI-powered systems & intelligent solutions**
 - 🚀 Focus on **performance, scalability & maintainable code**
 
----
 
-## 🔥 What I Do
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Web Apps
-Scalable, modern web applications using the **MERN stack** with clean architecture, RESTful APIs, and great performance optimizations.
-
-### 📱 Flutter & Android Apps  
-Cross-platform mobile experiences with smooth animations, intuitive UI, and native Android development using Kotlin.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX Design
-User-first designs built in **Figma** — beautiful, functional interfaces that drive real engagement and retention.
-
-### 🤖 AI-Powered Solutions
-Exploring intelligent, data-driven experiences using **Python** and modern AI/ML tools to automate and enhance products.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -117,9 +92,6 @@ Exploring intelligent, data-driven experiences using **Python** and modern AI/ML
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&margin-w=10&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%" />
-
 </div>
 
 ---
@@ -162,15 +134,7 @@ Exploring intelligent, data-driven experiences using **Python** and modern AI/ML
 
 </div>
 
----
 
-## 🎵 Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=A855F7)](https://open.spotify.com/user/developeradhi)
-
-</div>
 
 ---
 
