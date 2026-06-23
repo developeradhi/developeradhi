@@ -23,30 +23,17 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const adarsh = {
-  name        : "Adarsh B A",
-  role        : "Full Stack Developer & UI/UX Designer",
-  location    : "India 🇮🇳",
-  portfolio   : "https://adarsh-ui.vercel.app",
-  email       : "contact@adarshdev.qzz.io",
-  github      : "https://github.com/developeradhi",
-  linkedin    : "https://linkedin.com/in/adarsh-b-a-am2203060907",
+Hi, I'm **Adarsh B A** — a passionate **Full Stack Developer, UI/UX Designer, and Mobile App Developer**.
 
-  skills: {
-    frontend  : ["React", "HTML", "CSS", "JavaScript", "TypeScript"],
-    backend   : ["Node.js", "Express", "MongoDB", "Python"],
-    mobile    : ["Flutter", "Android", "Dart", "Kotlin"],
-    design    : ["UI/UX Design", "Figma", "Responsive Design"],
-    tools     : ["Git", "GitHub", "Vercel", "VS Code", "Firebase"],
-  },
+I enjoy building **modern, scalable, secure, and user-focused digital experiences** that solve real-world problems. My development approach focuses on **clean architecture, performance optimization, and beautiful user interfaces**.
 
-  currentlyLearning : ["Next.js", "Docker", "DevOps", "AI Integration"],
-  currentFocus      : "Building scalable web & mobile apps with great UX",
-  funFact           : "I debug with console.log and I'm proud of it 😄",
-  lifeGoal          : "Build products that 1M+ people love to use 🌍",
-};
-```
+### 💡 What I Do
+
+- 💻 Build **Full Stack Web Applications** using the MERN stack
+- 📱 Create modern **Flutter & Android Applications**
+- 🎨 Design intuitive **UI/UX experiences** using Figma
+- 🤖 Explore **AI-powered systems & intelligent solutions**
+- 🚀 Focus on **performance, scalability & maintainable code**
 
 ---
 
