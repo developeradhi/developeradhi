@@ -1,7 +1,7 @@
 <div align="left">
 
 <!-- Sleek Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Adarsh%20B%20A&fontSize=80&fontColor=ffffff&fontAlign=left&fontAlignY=50&desc=Software%20Engineer%20%7C%20Creator&descSize=22&descColor=a3a3a3&descAlign=left&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Adarsh%20B%20A&fontSize=80&fontColor=ffffff&fontAlign=left&fontAlignY=50&desc=Emerging%20Software%20Engineer%20%7C%20Creator&descSize=22&descColor=a3a3a3&descAlign=left&descAlignY=80" width="100%"/>
 
 <!-- Typing SVG Monochromatic -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=ffffff&center=false&vCenter=true&width=800&lines=Building+elegant+digital+experiences.;Architecting+scalable+systems.;Designing+with+purpose+and+precision.;Crafting+clean,+maintainable+code." alt="Typing SVG" />
