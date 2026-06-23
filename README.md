@@ -1,18 +1,289 @@
-# 💫 About Me:
-I am A Engineering Persuing Student<br>I am Looking for help for streangthen my coding nd networking skils<br>i am currently learning computer science and engineering course <br>ask me about
+<div align="center">
 
+<!-- Animated Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Adarsh%20B%20A&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20Dev&descSize=18&descColor=c084fc&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz__adhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-b-a-am2203060907) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/am2206) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzz__adhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhibasavanal@gmail.com) 
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Adarsh+B+A+👋;Full+Stack+%7C+MERN+Stack+Developer;Flutter+%26+Android+App+Builder;UI%2FUX+Designer+%7C+Python+%26+AI+Explorer;Turning+Ideas+Into+Digital+Realities+🚀;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developeradhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=developeradhi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/><br/>
+
+<!-- Badges Row -->
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-A855F7?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-A855F7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=developeradhi&style=for-the-badge&color=A855F7&label=Profile+Views&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/developeradhi?style=for-the-badge&logo=github&color=A855F7&label=Followers&labelColor=1a1a2e"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=developeradhi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```javascript
+const adarsh = {
+  name        : "Adarsh B A",
+  role        : "Full Stack Developer & UI/UX Designer",
+  location    : "India 🇮🇳",
+  portfolio   : "https://adarsh-ui.vercel.app",
+  email       : "contact@adarshdev.qzz.io",
+  github      : "https://github.com/developeradhi",
+  linkedin    : "https://linkedin.com/in/adarsh-b-a-am2203060907",
+
+  skills: {
+    frontend  : ["React", "HTML", "CSS", "JavaScript", "TypeScript"],
+    backend   : ["Node.js", "Express", "MongoDB", "Python"],
+    mobile    : ["Flutter", "Android", "Dart", "Kotlin"],
+    design    : ["UI/UX Design", "Figma", "Responsive Design"],
+    tools     : ["Git", "GitHub", "Vercel", "VS Code", "Firebase"],
+  },
+
+  currentlyLearning : ["Next.js", "Docker", "DevOps", "AI Integration"],
+  currentFocus      : "Building scalable web & mobile apps with great UX",
+  funFact           : "I debug with console.log and I'm proud of it 😄",
+  lifeGoal          : "Build products that 1M+ people love to use 🌍",
+};
+```
+
+---
+
+## 🔥 What I Do
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Web Apps
+Scalable, modern web applications using the **MERN stack** with clean architecture, RESTful APIs, and great performance optimizations.
+
+### 📱 Flutter & Android Apps  
+Cross-platform mobile experiences with smooth animations, intuitive UI, and native Android development using Kotlin.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Design
+User-first designs built in **Figma** — beautiful, functional interfaces that drive real engagement and retention.
+
+### 🤖 AI-Powered Solutions
+Exploring intelligent, data-driven experiences using **Python** and modern AI/ML tools to automate and enhance products.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 2024 Goals & Progress
+
+```
+🌐 Launch a SaaS Product         [████████░░░░░░] 55%
+📱 Publish Flutter App to Store  [██████████░░░░] 70%
+🤖 Build an AI-integrated Tool   [████░░░░░░░░░░] 30%
+⭐ Reach 100 GitHub Stars         [██████░░░░░░░░] 40%
+📝 Write 10 Technical Articles   [████████████░░] 80%
+🎓 Complete Cloud Certification  [██████░░░░░░░░] 45%
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🖥️ Frontend & Design
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma,tailwind&perline=8" />
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,firebase,mysql,redis&perline=7" />
+
+<br/><br/>
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&perline=4" />
+
+<br/><br/>
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux,docker&perline=7" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7&background=0D1117&sideLabels=A855F7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=A855F7&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&langs_count=8" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developeradhi&theme=tokyonight&utcOffset=5.5" width="38%" />
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&margin-w=10&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&theme=tokyo-night&hide_border=true&line=A855F7&point=ff6b6b&area=true&area_color=A855F7" width="100%"/>
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+|  🏅 Achievement | 📌 Detail |
+|---|---|
+| 🚀 **First Deployment** | Successfully deployed first full-stack web app |
+| 📱 **Mobile App Built** | Developed a Flutter cross-platform application |
+| 🎨 **UI Portfolio Live** | Launched [adarsh-ui.vercel.app](https://adarsh-ui.vercel.app) |
+| 🔥 **Open Source Contributor** | Contributing to public GitHub repositories |
+| 🤝 **Collaborative Dev** | Worked on team projects and client solutions |
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/developeradhi/developeradhi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7" />
+</a>
+
+<br/><br/>
+
+> 🌐 Explore all my work at **[adarsh-ui.vercel.app](https://adarsh-ui.vercel.app)**
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=A855F7)](https://open.spotify.com/user/developeradhi)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developeradhi/developeradhi/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/">
+  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20B%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="mailto:contact@adarshdev.qzz.io">
+  <img src="https://img.shields.io/badge/Email-contact@adarshdev.qzz.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://adarsh-ui.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-adarsh--ui.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/developeradhi">
+  <img src="https://img.shields.io/badge/GitHub-developeradhi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/itzz__adhi">
+  <img src="https://img.shields.io/badge/Twitter-@itzz__adhi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/itzz__adhi">
+  <img src="https://img.shields.io/badge/Instagram-@itzz__adhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<br/><br/>
+
+<!-- Social icons row -->
+<a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contact@adarshdev.qzz.io">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/developeradhi">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/itzz__adhi">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/itzz__adhi">
+  <img src="https://img.shields.io/badge/-%40itzz__adhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+> *"Great software is not just about working code — it's about clean architecture,*
+> *thoughtful design, and experiences that users genuinely love."*
+> 
+> *— Adarsh B A*
+
+<br/>
+
+**⭐ If you like my work, consider starring my repos — it motivates me to keep building! ⭐**
+
+<br/>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&text=Thanks+for+visiting!+👋&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+
+</div>
