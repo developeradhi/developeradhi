@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Adarsh%20B%20A&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descColor=c084fc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Adarsh%20B%20A&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=20&descColor=c084fc&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Full+Stack+Web+Applications;Designing+Beautiful+UI%2FUX+Experiences;Exploring+AI+%26+Intelligent+Systems;Always+Learning.+Always+Building.+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Full+Stack+Web+Applications;Engineering+ERP+%26+POS+Platforms;Designing+Beautiful+UI%2FUX+Experiences;Exploring+AI+%26+Intelligent+Systems;Always+Learning.+Always+Building.+🚀" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Adarsh B A** — a developer who obsesses over **clean code, beautiful interfaces, and scalable systems**.
+I'm **Adarsh B A** — a Full-Stack Engineer pursuing **BE in Computer Engineering** at **Bapuji Institute of Engineering and Technology (BIET), Davanagere**.
 
-I work across the full product stack — from designing pixel-perfect UIs in **Figma** to deploying production-ready backends with **Python & Node.js**. Passionate about building web experiences that are fast, functional, and delightful.
+I specialize in building **ERP systems, POS platforms & modern web applications** — engineering responsive client-side apps, modular API backends, and high-performance database systems. Open for **internships & collaborations**.
 
 > *"Great software is not just working code — it's thoughtful design that users genuinely love."*
 
@@ -44,6 +44,63 @@ I work across the full product stack — from designing pixel-perfect UIs in **F
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/RootNode-Rebels/sribasaveswaraschool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RootNode-Rebels&repo=sribasaveswaraschool&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/developeradhi/developeradhi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7"/>
+</a>
+
+</div>
+
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|---|---|---|
+| **Sri Basaveswara School ERP** | Modular school admin platform — student records, analytics dashboards & automated ledger | HTML · CSS · JS · Firebase |
+| **SuperPOS Pro** | High-performance POS & inventory system with UPI QR checkout & real-time reports | Next.js · Supabase · PostgreSQL · Prisma |
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-App%20Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0d1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-Advanced%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0d1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Supabase-Backend%20as%20a%20Service-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d0d1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d1a"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer |
+|---|---|
+| View all 4 certifications & 9 badges on my portfolio | [adhi.is-a.dev/#credentials](https://adhi.is-a.dev/#credentials) |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,6 +114,14 @@ I work across the full product stack — from designing pixel-perfect UIs in **F
 &nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&theme=tokyo-night&hide_border=true&line=A855F7&point=ff6b6b&area=true&area_color=A855F7" width="55%" />
 
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+<img src="https://clustrmaps.com/map_v2.png?cl=0e0e0e&w=600&t=n&d=developeradhi&co=A855F7&ct=ffffff" width="60%"/>
 </div>
 
 ---
@@ -81,8 +146,8 @@ I work across the full product stack — from designing pixel-perfect UIs in **F
   <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20B%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a"/>
 </a>
 &nbsp;
-<a href="mailto:contact@adarshdev.qzz.io">
-  <img src="https://img.shields.io/badge/Email-contact@adarshdev.qzz.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
+<a href="mailto:contact@adhi.is-a.dev">
+  <img src="https://img.shields.io/badge/Email-contact@adhi.is--a.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
 </a>
 &nbsp;
 <a href="https://adhi.is-a.dev">
