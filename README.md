@@ -47,7 +47,7 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </div>
 
 ---
@@ -56,20 +56,12 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 
 <div align="center">
 
-<a href="https://github.com/RootNode-Rebels/sribasaveswaraschool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RootNode-Rebels&repo=sribasaveswaraschool&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/developeradhi/developeradhi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developeradhi&repo=developeradhi&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&icon_color=A855F7"/>
-</a>
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Links |
+|---|---|---|---|
+| **Sri Basaveswara School ERP** | Modular school admin platform — student records, analytics dashboards & automated ledger | HTML · CSS · JS · Firebase | [![Repo](https://img.shields.io/badge/GitHub-Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/RootNode-Rebels/sribasaveswaraschool) [![Live](https://img.shields.io/badge/Live-Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://rootnode-rebels.github.io/sribasaveswaraschool) |
+| **SuperPOS Pro** | High-performance POS & inventory system with UPI QR checkout & real-time reports | Next.js · Supabase · PostgreSQL · Prisma | [![Repo](https://img.shields.io/badge/GitHub-Private-555?style=flat-square&logo=github&logoColor=white)](https://github.com/developeradhi) |
 
 </div>
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| **Sri Basaveswara School ERP** | Modular school admin platform — student records, analytics dashboards & automated ledger | HTML · CSS · JS · Firebase |
-| **SuperPOS Pro** | High-performance POS & inventory system with UPI QR checkout & real-time reports | Next.js · Supabase · PostgreSQL · Prisma |
 
 ---
 
