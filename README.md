@@ -48,7 +48,7 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developeradhi&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7&background=0D1117&sideLabels=A855F7&dates=8b949e" width="100%"/>
 
 <br/><br/>
 
