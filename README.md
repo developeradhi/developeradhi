@@ -44,10 +44,18 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Summary
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developeradhi&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developeradhi&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developeradhi&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developeradhi&theme=tokyonight" width="32%"/>
+
 </div>
 
 ---
