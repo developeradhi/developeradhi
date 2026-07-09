@@ -69,7 +69,7 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 | 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |---|---|---|---|
 | **Sri Basaveswara School ERP** | Modular school admin platform — student records, analytics dashboards & automated ledger | HTML · CSS · JS · Firebase | [![Repo](https://img.shields.io/badge/GitHub-Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/rootnode-rebels/sribsaveswaraschool/) [![Live](https://img.shields.io/badge/Live-Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://rootnode-rebels.github.io/sribasaveswaraschool/) |
-| **SuperPOS Pro** | High-performance POS & inventory system with UPI QR checkout & real-time reports | Next.js · Supabase · PostgreSQL · Prisma | [![Repo](https://img.shields.io/badge/GitHub-Private-555?style=flat-square&logo=github&logoColor=white)](https://github.com/developeradhi) |
+| **SuperPOS Pro** | High-performance POS & inventory system with UPI QR checkout & real-time reports | Next.js · Supabase · PostgreSQL · Prisma | [![Repo](https://img.shields.io/badge/GitHub-Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/RootNode-Rebels/smarttrolleyapp) [![Live](https://img.shields.io/badge/Live-Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://smarttrolleyapp.vercel.app/) |
 
 </div>
 
