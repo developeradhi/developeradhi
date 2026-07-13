@@ -52,11 +52,9 @@ I specialize in building **ERP systems, POS platforms & modern web applications*
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developeradhi&theme=tokyonight" width="31%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developeradhi&theme=tokyonight" width="31%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developeradhi&theme=tokyonight" width="31%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc&langs_count=6" width="38%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&icon_color=A855F7&title_color=A855F7&bg_color=0D1117&text_color=f0f6fc" width="58%" />
 
 </div>
 
