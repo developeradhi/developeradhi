@@ -73,7 +73,20 @@ I specialize in the end-to-end development of **Enterprise Resource Planning (ER
 
 ---
 
+## 📜 Credentials & Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuing Authority | 🔗 Verify |
+|---|---|---|
+| View all 4 Certifications & 9 Badges | Verified on Portfolio | [![Portfolio](https://img.shields.io/badge/View%20All%20Credentials-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981)](https://adhi.is-a.dev/#credentials) |
+
+</div>
+
+---
+
 ## 📊 Development Metrics
+
 
 <div align="center">
 
