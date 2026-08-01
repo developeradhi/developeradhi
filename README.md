@@ -164,7 +164,7 @@ const adarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developeradhi&theme=dark&hide_border=true&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=developeradhi&theme=dark&hide_border=true&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&icon_color=10B981&title_color=10B981&bg_color=0D1117&text_color=ffffff" width="49%" />
 
 <br/><br/>
