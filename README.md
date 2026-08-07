@@ -205,7 +205,7 @@ const adarsh = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/">
+<a href="https://www.linkedin.com/in/developeradhi/">
   <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20B%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
