@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:10B981,100:0D1117&height=300&section=header&text=Adarsh%20B%20A&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20Open-Source%20Builder&descSize=18&descColor=10B981&animation=fadeIn&rotate=0&stroke=10B981&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&multiline=false&width=900&lines=🚀+Building+Scalable+Enterprise+Systems;🏗️+Architecting+High-Performance+Web+Apps;🔐+Engineering+Secure+API+Backends;🤖+Exploring+AI+%26+Intelligent+Automation;📦+Shipping+Production-Ready+Systems;⚡+Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:10B981,100:0D1117&height=220&section=header&text=Adarsh%20B%20A&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20Open-Source%20Builder&descSize=18&descColor=10B981&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&multiline=false&width=900&lines=🚀+Building+Scalable+Enterprise+Systems;🏗️+Architecting+High-Performance+Web+Apps;🔐+Engineering+Secure+API+Backends;🤖+Exploring+AI+%26+Intelligent+Automation;⚡+Always+Learning.+Always+Building." alt="Typing SVG" />
+
+<br/><br/>
+
 <a href="https://adhi.is-a.dev"><img src="https://img.shields.io/badge/🌐%20Portfolio-adhi.is--a.dev-10B981?style=for-the-badge&labelColor=0D1117"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/adarsh-b-a-am2203060907/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/developeradhi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<a href="mailto:contact@adhi.is-a.dev"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:contact@adhi.is-a.dev"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=developeradhi&style=for-the-badge&color=10B981&label=Profile+Views&labelColor=0D1117"/>
 
@@ -22,9 +20,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> &nbsp; About Me
+## 👨‍💻 About Me
 
 ```typescript
 const adarsh = {
@@ -43,15 +39,15 @@ const adarsh = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp; Technical Arsenal
+## ⚡ Technical Arsenal
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="200"><strong>🖥️ Frontend</strong></td>
+    <td align="center" width="180"><strong>🖥️ Frontend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7"/></td>
   </tr>
   <tr>
@@ -70,9 +66,9 @@ const adarsh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🚀 &nbsp; Featured Production Deployments
+## 🚀 Featured Production Deployments
 
 <div align="center">
 
@@ -84,7 +80,7 @@ const adarsh = {
         <a href="https://rootnode-rebels.github.io/sribasaveswaraschool/" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-View%20Production-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
         </a>
-        <a href="https://github.com/rootnode-rebels/sribsaveswaraschool/" target="_blank">
+        <a href="https://github.com/RootNode-Rebels/sribasaveswaraschool" target="_blank">
           <img src="https://img.shields.io/badge/SOURCE-View%20Code-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
         </a>
       </div>
@@ -111,9 +107,9 @@ const adarsh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🎯 &nbsp; Current Engineering Focus
+## 🎯 Current Engineering Focus
 
 <div align="center">
 
@@ -133,34 +129,34 @@ const adarsh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📜 &nbsp; Credentials & Certifications
+## 📜 Credentials & Certifications
 
 <div align="center">
 
 <table>
   <tr>
-    <th>🏅 Certification</th>
+    <th>🏅 Certification / Credential</th>
     <th>🏢 Issuing Authority</th>
-    <th>🔗 Verify</th>
+    <th>🔗 Verification</th>
   </tr>
   <tr>
-    <td>4 Professional Certifications</td>
+    <td>Full-Stack Engineering & Web Architecture</td>
     <td>Industry Verified</td>
-    <td rowspan="2"><a href="https://adhi.is-a.dev/#credentials"><img src="https://img.shields.io/badge/View%20All%20Credentials-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981"/></a></td>
+    <td rowspan="2"><a href="https://adhi.is-a.dev/#credentials" target="_blank"><img src="https://img.shields.io/badge/View%20All%20Credentials-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981"/></a></td>
   </tr>
   <tr>
-    <td>9 Verified Skill Badges</td>
-    <td>Industry Verified</td>
+    <td>4 Professional Certifications & 9 Skill Badges</td>
+    <td>Verified Credentials</td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📊 &nbsp; Development Metrics
+## 📊 Development Metrics
 
 <div align="center">
 
@@ -169,27 +165,13 @@ const adarsh = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="38%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developeradhi&theme=react-dark&hide_border=true&line=10B981&point=ffffff&area=true&area_color=0D1117&bg_color=0D1117&color=10B981" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=developeradhi&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=10B981" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="60%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🌍 &nbsp; Global Reach
-
-<div align="center">
-<img src="https://clustrmaps.com/map_v2.png?cl=10B981&w=700&t=n&d=developeradhi&co=0D1117&ct=10B981" width="65%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp; Contribution Matrix
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -199,9 +181,9 @@ const adarsh = {
 </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🌐 &nbsp; Establish Connection
+## 🌐 Establish Connection
 
 <div align="center">
 
@@ -216,10 +198,6 @@ const adarsh = {
 <a href="https://adhi.is-a.dev">
   <img src="https://img.shields.io/badge/Portfolio-adhi.is--a.dev-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
 </a>
-&nbsp;
-<a href="https://twitter.com/itzz__adhi">
-  <img src="https://img.shields.io/badge/Twitter-@itzz__adhi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117"/>
-</a>
 
 <br/><br/>
 
@@ -227,6 +205,6 @@ const adarsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:10B981,100:0D1117&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=fadeIn&stroke=10B981&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:10B981,100:0D1117&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
