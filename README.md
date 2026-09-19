@@ -146,7 +146,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="55%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&count_private=true&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="60%" />
 
 </div>
 
