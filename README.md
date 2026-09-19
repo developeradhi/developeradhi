@@ -142,11 +142,47 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=developeradhi&theme=dark&hide_border=true&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
-<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&icon_color=10B981&title_color=10B981&bg_color=0D1117&text_color=ffffff" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&icon_color=10B981&title_color=10B981&bg_color=0D1117&text_color=ffffff" width="49%" />
 
 <br/><br/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&count_private=true&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="60%" />
+
+</div>
+
+---
+
+### 🎯 &nbsp; SCORE OPTIMIZATION ROADMAP (TARGET: TOP 12.5% A+ GRADE)
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Impact Weight</th>
+    <th>Metric Pillar</th>
+    <th>Optimization Strategy</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>⭐ 33.3%</strong></td>
+    <td><strong>Repository Stars</strong></td>
+    <td>Build public open-source utility tools, write comprehensive documentation, and engineer sleek visual READMEs to attract community stars.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔀 25.0%</strong></td>
+    <td><strong>Pull Requests</strong></td>
+    <td>Submit high-quality PRs to open-source codebases, resolve "good first issue" bugs, and contribute code & documentation upstream.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💻 16.7%</strong></td>
+    <td><strong>Commit Consistency</strong></td>
+    <td>Maintain daily incremental developmental pushes and regular engineering habits rather than infrequent bulk uploads.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔒 Actionable</strong></td>
+    <td><strong>Private Contributions</strong></td>
+    <td>Explicitly parse <code>&count_private=true</code> and <code>&include_all_commits=true</code> to credit enterprise and private repository work.</td>
+  </tr>
+</table>
 
 </div>
 
