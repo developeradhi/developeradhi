@@ -152,42 +152,6 @@
 
 ---
 
-### 🎯 &nbsp; SCORE OPTIMIZATION ROADMAP (TARGET: TOP 12.5% A+ GRADE)
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Impact Weight</th>
-    <th>Metric Pillar</th>
-    <th>Optimization Strategy</th>
-  </tr>
-  <tr>
-    <td align="center"><strong>⭐ 33.3%</strong></td>
-    <td><strong>Repository Stars</strong></td>
-    <td>Build public open-source utility tools, write comprehensive documentation, and engineer sleek visual READMEs to attract community stars.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🔀 25.0%</strong></td>
-    <td><strong>Pull Requests</strong></td>
-    <td>Submit high-quality PRs to open-source codebases, resolve "good first issue" bugs, and contribute code & documentation upstream.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>💻 16.7%</strong></td>
-    <td><strong>Commit Consistency</strong></td>
-    <td>Maintain daily incremental developmental pushes and regular engineering habits rather than infrequent bulk uploads.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🔒 Actionable</strong></td>
-    <td><strong>Private Contributions</strong></td>
-    <td>Explicitly parse <code>&count_private=true</code> and <code>&include_all_commits=true</code> to credit enterprise and private repository work.</td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ### 🐍 &nbsp; CONTRIBUTION MATRIX
 
 <div align="center">
