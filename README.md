@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:052E16,50:10B981,100:0D1117&height=220&section=header&text=Adarsh%20B%20A&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20Open-Source%20Builder&descSize=18&descColor=10B981&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Building+Scalable+Enterprise+Systems;Architecting+High-Performance+Web+Apps;Engineering+Secure+API+Backends;Exploring+AI+and+Intelligent+Automation;Always+Learning.+Always+Building." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Adarsh B A - Full-Stack Engineer & Systems Architect Profile Banner" width="100%">
+</picture>
 
 <br/><br/>
 
-<a href="https://adhi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-adhi.is--a.dev-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://adhi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-adhi.is--a.dev-10B981?style=for-the-badge&labelColor=0D1117"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/developeradhi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
@@ -24,13 +24,23 @@
 
 ### 👨‍💻 &nbsp; EXECUTIVE PROFILE
 
-> **Adarsh B A** — *Full-Stack Engineer & Systems Architect*  
-> Pursuing **B.E. in Computer Engineering** at **Bapuji Institute of Engineering and Technology (BIET), Davanagere**.
-
-* 🚀 **Specialization:** Building ERP systems, POS platforms, and production-grade web applications.
-* ⚙️ **Core Engineering:** Responsive client-side applications, modular RESTful API backends, and optimized database systems.
-* 💡 **Philosophy:** *"Engineering solutions that are scalable, secure, and architecturally sound."*
-* 🤝 **Open For:** Full-Stack Internships, Technical Collaborations, and Open-Source Projects.
+```typescript
+const adarsh = {
+  name      : "Adarsh B A",
+  role      : ["Full-Stack Engineer", "Systems Architect", "SaaS Builder"],
+  company   : "Founder & CEO @ RootNode Rebels",
+  education : "B.E. Computer Science & Engineering @ BIET, Davanagere",
+  specialty : "Enterprise ERP Systems, POS Platforms & Scalable Web Applications",
+  stack     : {
+    frontend  : ["TypeScript", "React", "Next.js (App Router)", "TailwindCSS"],
+    backend   : ["Node.js", "Python", "Express", "FastAPI", "REST APIs"],
+    databases : ["PostgreSQL", "MySQL", "Supabase", "Firebase", "Prisma"],
+    devops    : ["Docker", "Linux", "Git", "GitHub Actions", "Vercel"]
+  },
+  philosophy: "Engineering solutions that are scalable, secure, and architecturally sound.",
+  openTo    : ["Full-Stack Internships", "Technical Collaborations", "Open Source"]
+};
+```
 
 ---
 
@@ -38,12 +48,24 @@
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&perline=7"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=7"/> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,vscode&perline=7"/> |
+<table>
+  <tr>
+    <td align="center" width="180"><strong>🖥️ Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&perline=7"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=7"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛠️ DevOps & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,vscode&perline=7"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -146,7 +168,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&count_private=true&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="60%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&count_private=true&layout=donut&theme=dark&hide_border=true&title_color=10B981&bg_color=0D1117&text_color=ffffff&langs_count=8" width="55%" />
 
 </div>
 
