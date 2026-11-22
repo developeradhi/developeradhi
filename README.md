@@ -78,19 +78,19 @@ const adarsh = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Sri Basaveswara School ERP</h3>
+      <h3 align="center">🤖 EduPilot AI</h3>
       <div align="center">
-        <a href="https://rootnode-rebels.github.io/sribasaveswaraschool/" target="_blank">
+        <a href="https://edupilot-ai-brown.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-Production-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
         </a>
         &nbsp;
-        <a href="https://github.com/RootNode-Rebels/sribasaveswaraschool" target="_blank">
+        <a href="https://github.com/RootNode-Rebels/edupilotAi" target="_blank">
           <img src="https://img.shields.io/badge/SOURCE-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
         </a>
       </div>
       <br/>
-      <p>Comprehensive school resource planning platform engineered for automated student data pipelines, real-time analytics dashboards, and ledger management.</p>
-      <p><code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Firebase</code></p>
+      <p>Modern AI-powered education &amp; learning copilot platform engineered for automated learning pathways, student analytics dashboards, and interactive assessment.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>TailwindCSS</code> · <code>AI / LLM</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛒 SuperPOS Pro</h3>
@@ -104,11 +104,23 @@ const adarsh = {
         </a>
       </div>
       <br/>
-      <p>High-performance Point-of-Sale & retail inventory management system featuring instant UPI QR checkout, real-time reporting, and admin controls.</p>
+      <p>High-performance Point-of-Sale &amp; retail inventory management system featuring instant UPI QR checkout, real-time reporting, and admin controls.</p>
       <p><code>Next.js</code> · <code>Supabase</code> · <code>PostgreSQL</code> · <code>Prisma</code></p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+| Codebase / Repository | Engineering Domain | Primary Tech Stack | Source / Demo |
+| :--- | :--- | :--- | :---: |
+| 🤖 [**edupilotAi**](https://github.com/RootNode-Rebels/edupilotAi) | AI Learning Copilot &amp; Analytics | `Next.js` `TypeScript` `Python` `AI/LLM` `Tailwind` | [**Live Demo ↗**](https://edupilot-ai-brown.vercel.app/) |
+| 🛒 [**smarttrolleyapp**](https://github.com/RootNode-Rebels/smarttrolleyapp) | Retail POS &amp; Inventory Engine | `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Prisma` | [**Live Demo ↗**](https://smarttrolleyapp.vercel.app/) |
+| 🗳️ [**vote-sys**](https://github.com/developeradhi/vote-sys) | Cryptographic Voting System | `Python` `HTML5` `CSS3` `Vercel` | [**Live Demo ↗**](https://online-vote-sys.vercel.app/) |
+| 📄 [**Ai-Resume-Builder**](https://github.com/developeradhi/Ai-Resume-Builder) | AI Resume Engine &amp; Optimizer | `TypeScript` `React` `PostgreSQL` `PLpgSQL` | [**GitHub ↗**](https://github.com/developeradhi/Ai-Resume-Builder) |
+| 🛡️ [**ultimate-security-suite**](https://github.com/developeradhi/ultimate-security-suite) | Cyber Tooling &amp; Network Defense | `Python` `Cryptography` `Network Protocols` | [**GitHub ↗**](https://github.com/developeradhi/ultimate-security-suite) |
+| 🌐 [**developeradhi.github.io**](https://github.com/developeradhi/developeradhi.github.io) | Portfolio &amp; 3D Web Laboratory | `HTML5` `CSS3 Glassmorphism` `Three.js` `JavaScript` | [**Live Site ↗**](https://adhi.is-a.dev) |
+| 🌾 [**ai-crop-doctor**](https://github.com/developeradhi/ai-crop-doctor) | Computer Vision Agri-Diagnostics | `TypeScript` `React` `Computer Vision AI` | [**GitHub ↗**](https://github.com/developeradhi/ai-crop-doctor) |
 
 </div>
 

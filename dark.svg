@@ -264,8 +264,8 @@
         <!-- Project 1 Card -->
         <g transform="translate(0, 0)">
           <rect x="0" y="0" width="305" height="54" rx="8" fill="#030712" stroke="#1E293B" stroke-width="1.2"/>
-          <text x="14" y="22" class="sans bright" font-size="12.5">Sri Basaveswara School ERP</text>
-          <text x="14" y="40" class="sans muted" font-size="11">Student pipelines &amp; ledger dashboards</text>
+          <text x="14" y="22" class="sans bright" font-size="12.5">EduPilot AI Platform</text>
+          <text x="14" y="40" class="sans muted" font-size="11">AI learning pathways &amp; analytics</text>
           <rect x="238" y="10" width="56" height="18" rx="4" fill="#10B981" fill-opacity="0.2"/>
           <text x="246" y="23" class="mono" font-size="10" font-weight="700" fill="#10B981">LIVE ↗</text>
         </g>
